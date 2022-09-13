@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*Assets/Resources/ARDK/ArdkAuthConfig.asset
+*Assets/Resources/ARDK/ArdkAuthConfig.asset.meta
